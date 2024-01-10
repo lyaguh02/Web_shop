@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<GameSet xmlns="http://tempuri.org/GameSet.xsd">
+  <Games>
+    <Image>Hello</Image>
+    <Name>Goodbye</Name>
+  </Games>
+  <Games>
+    <Image>Hitman</Image>
+    <Name>Hitman 2</Name>
+  </Games>
+  <Games>
+    <Image>Cs Go</Image>
+    <Name>Counter-Strike: Global Offensive</Name>
+  </Games>
+</GameSet>
